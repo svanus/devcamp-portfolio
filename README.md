@@ -6,8 +6,9 @@
 ### Features
 
 - Realtime Chat Engine for Comments
--Blog Portfolio
--Drag and Drop Interface
+- Blog
+- Portfolio
+- Drag and Drop Interface
 
 ### Code Example
 
