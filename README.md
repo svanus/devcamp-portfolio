@@ -5,7 +5,7 @@
 
 ### Features
 
-- Realtime Chat Engine for Comments
+- Real time Chat Engine for Comments
 - Blog
 - Portfolio
 - Drag and Drop Interface
@@ -19,5 +19,5 @@ end
 ```
 
 ```javascript
-alert('Hi There')
+alert('Hi There');
 ```
